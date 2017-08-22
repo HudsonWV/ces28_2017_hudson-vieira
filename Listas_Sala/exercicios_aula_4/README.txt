@@ -1,0 +1,1 @@
+O exercício referente à aula 4 foi feito conjuntamente com Thiago Medeiros e postado no github dele, que pode ser acessado pelo link: https://github.com/Thiago-Filipe/ces28_2017_Thiago.Medeiros/tree/master/listas_sala/exercicio_aula_4
