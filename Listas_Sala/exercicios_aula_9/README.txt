@@ -1,0 +1,1 @@
+Exercício feito em dupla com Thiago Medeiros e disponível em seu Github: https://github.com/Thiago-Filipe/ces28_2017_Thiago.Medeiros/tree/master/listas_sala/exercicio_aula_9
