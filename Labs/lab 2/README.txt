@@ -1,0 +1,1 @@
+O lab 2 foi feito conjuntamente com Thiago Medeiros e postado no github dele, que pode ser acessado pelo link: https://github.com/Thiago-Filipe/ces28_2017_Thiago.Medeiros/tree/master/labs/lab_2/CalculadoraString
