@@ -1,0 +1,1 @@
+O exercício 10 (parte II) foi feito juntamente com Thiago Medeiros e postado no github dele, disponível pelo link: https://github.com/Thiago-Filipe/ces28_2017_Thiago.Medeiros/tree/master/listas_sala/exercicio_aula_10
